@@ -1,0 +1,1 @@
+This repository contains a Hack program that demonstrates a stack overflow error caused by a recursive function. The function `foo` calculates the factorial of a number using recursion. For large inputs, the recursive calls consume too much stack space, resulting in a stack overflow. The solution demonstrates how to avoid this error by using iteration instead of recursion.
